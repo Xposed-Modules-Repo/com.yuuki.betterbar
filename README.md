@@ -52,4 +52,4 @@
 
 打开你想要的功能的开关，**长按**右下角的按钮(需要给root)
 
-![show](./show.png)
+![show](https://github.com/Xposed-Modules-Repo/com.yuuki.betterbar/blob/main/show.png)
