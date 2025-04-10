@@ -1,3 +1,5 @@
+# BetterBar
+xp模块，用于美化状态栏(自测Flyme 11.2.1.0A完美运行)
 ## Flyme状态栏美化模块
 
 自用模块。完美适用于FLYme 11.2.1.0A，附近的版本应该也适用。
@@ -29,6 +31,14 @@
 
 + 时间加粗
 
++ 加粗网速
+
++ 加粗电量
+
++ 取消控制中心圆角
+
++ 过滤状态栏通知图标
+
 + 时间显示秒数
 
 + 时间显示am/pm(会强制转换为12时计时法)
@@ -39,11 +49,19 @@
 
 + 显示CPU温度
 
++ 显示电池温度
+
 + 显示充放电功率
+
++ 显示运存情况
 
 + 显示前台app的CPU使用率
 
 + 双击状态栏锁屏
+
++ 经典模式下拉通知中心实时模糊
+
++ 下拉通知中心时间显秒
 
 + 有其他有趣的想法欢迎提出🥰🥰
 
@@ -52,4 +70,4 @@
 
 打开你想要的功能的开关，**长按**右下角的按钮(需要给root)
 
-![show](https://github.com/Xposed-Modules-Repo/com.yuuki.betterbar/blob/main/show.png)
+[![show](./art/shows.png)](https://github.com/SoyBeanMilkx/BetterBar/blob/main/art/shows.png)
